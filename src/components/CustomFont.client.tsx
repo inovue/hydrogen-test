@@ -19,4 +19,4 @@
 
 import '../styles/custom-font.css';
 
-export function CustomFont() {}
+export function CustomFont() {return (<></>)}
